@@ -1,4 +1,4 @@
-const imgDb = "/img/"
+const imgDb = "./img/"
 
 // 배너 리스트 생성
 
