@@ -1,4 +1,4 @@
-const imgDb = "/img"
+const imgDb = "./"
 console.log(postList);
 
 // 배너 리스트 생성
@@ -83,13 +83,12 @@ function createPost(){
             }
             else{newButton.classList.add("cBOff")}
             newCat.appendChild(newButton);
-            }
-        
-        newPost.appendChild(newCat);
+        }
+            newPost.appendChild(newCat);
         if(postList[i].img!=""){
             newImg = document.createElement("img");
             newImg.classList.add("postImg");
-            newImg.src = postList[i].img;
+            newImg.src = imgDb+postList[i].img;
             newPost.appendChild(newImg);
         }
         newClick.appendChild(newPost);

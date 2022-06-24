@@ -5,8 +5,8 @@ const myData = {
 
 const bannerList = [
     {
-        img:`/eventex1.png`,
-        hostImg:`/Mike.png`,
+        img:`eventex1.png`,
+        hostImg:`Mike.png`,
         hostName:`Mike`,
         title:`EXCHANGEE WELCOME PARTY ON 7/21`,
         content:`Hello all the exchange students from all over the world :)<br>
@@ -21,8 +21,8 @@ const bannerList = [
         PM me if interested xx`
     },
     {
-        img:`/eventex2.png`,
-        hostImg:`/anonymous.png`,
+        img:`eventex2.png`,
+        hostImg:`anonymous.png`,
         hostName:`Emma`,
         title:`Anyone want to go hiking?`,
         content:`Hi :)<br>
@@ -31,8 +31,8 @@ const bannerList = [
         Pls message me if you wanna join 👀`
     },
     {
-        img:`/eventex3.jpg`,
-        hostImg:`/anonymous.png`,
+        img:`eventex3.jpg`,
+        hostImg:`anonymous.png`,
         hostName:`Scarlet`,
         title:`Superfun Ballon Party`,
         content:`Upcoming Big news!<br>
@@ -57,8 +57,8 @@ const myPost = {
 const postList = [
     {
         index:2,
-        img:`/img/postex1.png`,
-        uploaderImg:`/anonymous.png`,
+        img:`postex1.png`,
+        uploaderImg:`anonymous.png`,
         uploaderName:`James`,
         content:`My cat is so cute LOL`,
         board:"free",
@@ -66,8 +66,8 @@ const postList = [
     },
     {
         index:1,
-        img:`/img/postex2.png`,
-        uploaderImg:`/anonymous.png`,
+        img:`postex2.png`,
+        uploaderImg:`anonymous.png`,
         uploaderName:`Peter`,
         content:`Is this true? I can't believe it.`,
         board:"information",
